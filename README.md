@@ -1,2 +1,5 @@
-# first1
-a bird
+#inlcude<stdio.h>
+int main()
+{
+  pirntf("hello world!")
+}
